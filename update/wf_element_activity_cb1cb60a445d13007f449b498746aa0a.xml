@@ -28,9 +28,9 @@
         <sys_id>cb1cb60a445d13007f449b498746aa0a</sys_id>
         <sys_mod_count>7</sys_mod_count>
         <sys_name>Slack Email Id</sys_name>
-        <sys_package display_value="Slack" source="x_snc_slack">683a7a86445d13007f449b498746aa73</sys_package>
+        <sys_package display_value="Slacker" source="x_snc_slack">683a7a86445d13007f449b498746aa73</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Slack">683a7a86445d13007f449b498746aa73</sys_scope>
+        <sys_scope display_value="Slacker">683a7a86445d13007f449b498746aa73</sys_scope>
         <sys_update_name>wf_element_activity_cb1cb60a445d13007f449b498746aa0a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-04-08 20:40:14</sys_updated_on>
