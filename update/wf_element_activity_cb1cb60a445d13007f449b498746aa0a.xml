@@ -12,7 +12,7 @@
         <image>images/heisenberg_icons/workflow_ie8/provider_rest.png</image>
         <input_meta>{"name":"Input","type":"DATA_OBJECT","properties":[{"name":"email_id","type":"STRING","mandatory":true}]}</input_meta>
         <input_process_script/>
-        <input_transform>{"web_service_message":"2d5a3ac6445d13007f449b498746aa95","web_service_message_function":"f18a3ac6445d13007f449b498746aa9e","web_service_endpoint":"https://hooks.slack.com/services/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","parameters":"[{\"name\":\"email\",\"value\":\"${activityInput.email_id}\",\"additional_attribute\":\"\"}]","headers":"[]","queryParameters":"[]","midCapabilities":"18409d8007482000dada43c0d1021e8f","use_mid_server":"false","time_out":"10","auth_type":"use_existing_credentials","credentials":"","protocol_profile":"","oauth_entity_profile":""}</input_transform>
+        <input_transform>{"web_service_message":"2d5a3ac6445d13007f449b498746aa95","web_service_message_function":"f18a3ac6445d13007f449b498746aa9e","web_service_endpoint":"https://hooks.slack.com/services/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","parameters":"[{\"name\":\"email\",\"value\":\"${activityInput.email_id}\",\"additional_attribute\":\"\"}]","headers":"[]","queryParameters":"[]","midCapabilities":"18409d8007482000dada43c0d1021e8f","use_mid_server":"false","time_out":"10","auth_type":"use_existing_credentials","credentials":"","protocol_profile":"","oauth_entity_profile":""}</input_transform>
         <local_variables/>
         <name>Slack Email Id</name>
         <output_meta/>
