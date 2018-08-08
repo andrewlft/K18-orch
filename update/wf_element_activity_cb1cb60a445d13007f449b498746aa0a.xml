@@ -40,7 +40,7 @@
     <wf_versionable action="INSERT_OR_UPDATE">
         <checked_out/>
         <checked_out_by/>
-        <published>true</published>
+        <published>false</published>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-07 20:34:43</sys_created_on>
         <sys_id>1d7c760a445d13007f449b498746aa15</sys_id>
